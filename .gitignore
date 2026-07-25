@@ -1,0 +1,36 @@
+# Build & Output Directories
+Client/build/
+bin/
+obj/
+out/
+x64/
+x86/
+Release/
+Debug/
+
+# Visual Studio & MSVC
+.vs/
+*.user
+*.vcxproj.user
+*.suo
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.sdf
+*.opensdf
+
+# CMake Cache & Temp Files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# System & IDE Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
